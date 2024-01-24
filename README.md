@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 # Execute o script:
 
-python epc_generator.py
+python test.py
 
 Insira o valor desejado no campo de entrada e clique no botão "Gerar EPC".
 
